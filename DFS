@@ -45,8 +45,6 @@ scanf("%d",&n);
  
 printf("\nEnter the adjacency matrix:"); 
 for(i=0;i<n;i++) 
-13 | P a g e 
- 
 for(j=0;j<n;j++) 
 scanf("%d",&cost[i][j]); 
  
