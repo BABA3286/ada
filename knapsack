@@ -26,7 +26,7 @@ printf("\nThe optimal solution is %d:\n",v[n][m]);
 
 for(i=0;i<n;i++)
 x[i]=0;
-i=n
+i=n;
 j=m;
 while(i!=0 && j!=0)
 {
